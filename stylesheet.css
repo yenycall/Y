@@ -481,6 +481,7 @@ pre {
     transition: all 0.3s ease;
     border-bottom: 1px solid #000;
     transition: all 0.3s ease;
+    font-size: 1vw;
 }
 
 .skillRange {
@@ -926,6 +927,7 @@ input[type="text"]::placeholder {
 
 footer {
     text-align: center;
+    font-size: 1vw;
 }
 
 footer a {
